@@ -63,7 +63,7 @@ file, but we generally split them apart as shown here to keep things organized.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Copyright [2015] [Vipul Kanade]
+Copyright 2015 Vipul Kanade
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
